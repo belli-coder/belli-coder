@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @belli-coder
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Bhawna
+- 👀 I’m interested in Webdevelopment
 
